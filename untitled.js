@@ -22,3 +22,6 @@ var newsFeed = [
 
 var userNamePrompt = prompt("What is your username?");
 var passwordPrompt = prompt("What is your password?");
+
+
+//Yoyoyo
